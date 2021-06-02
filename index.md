@@ -2,12 +2,12 @@
 title: "Welcome to my website!"
 ---
 
-My name is Kirari Momobami.
+Hi!
+My name is Kalpana Joshi.
+
+My social media accounts are linked below (@kjxshi on Instagram, @kjxshi on GitHub)
 
 Here is a picture of me:
 
 
-
-My Instagram username is @kmxbami and my Snapchat username is ki-ferrari
-
-My brag sheet information includes my job as a Target manager, my position as National Honor Society President, and my hobby for graph design and photography.
+My brag sheet information includes my job as a Target manager, my position as Student Council President, and my hobby for casual photography.
